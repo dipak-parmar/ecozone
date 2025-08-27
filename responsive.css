@@ -1,0 +1,970 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+
+@media (max-width:1200px) {
+
+
+
+
+.firstpg{
+    height: 55vh !important;
+    background-position: center;
+}
+
+
+.fd1{
+    margin-top: 50px !important;
+}
+
+.fd1 h1{
+    font-size: 45px;
+    width: 490px !important;
+}
+
+.fd1 p{
+    font-size: 20px;
+    width: 490px !important;
+}
+
+
+.fd21 img{
+    width: 200px !important;
+    margin-left: 50px;
+    margin-top: 30px !important;
+
+}
+
+.fd22 img{
+    margin-top: 150px !important;
+    width: 200px !important;
+
+}
+
+.fd3 img{
+    left: 200px;
+    top: 150px;
+}
+
+.fd4 img{
+    left: 178px;
+    top: 132px;
+}
+
+.fd5{
+    left: 260px;
+    top: 210px;
+}
+
+.secdata{
+    gap: 20px !important;
+}
+.secbox{
+    width: 300px !important;
+}
+
+.three1 img{
+    width: 430px;
+    height: 860px;
+    object-fit: cover;
+}
+
+.three2 h1{
+    font-size: 40px !important;
+}
+.three2 p{
+    line-height: 24px !important;
+}
+
+.fourbg2{
+    margin-top: -600px;
+}
+
+.fourbg{
+    padding-top: 100px;
+    align-items:  start !important;
+    margin-top: 50px;
+}
+
+.fivepg{
+    flex-wrap: wrap !important;
+}
+
+.accordion-item{
+    width: 400px !important;
+    background-color: white;
+}
+
+.six1 h1{
+    font-size: 30px !important;
+}
+.sev1 {
+    width: 400px !important;
+}
+
+
+.six2 img{
+    width: 450px !important;
+}
+
+.sev1 img{
+    height: 400px !important;
+    object-fit: cover;
+    width: 400px !important;
+}
+
+
+.carousel-control-prev{
+    margin-left: 350px !important;
+    margin-top: 550px;
+    
+    
+}
+
+.carousel-control-next{
+     margin-right: 350px !important;
+    margin-top: 550px;
+    
+    
+}
+
+.eight2{
+    margin-top: -200px;
+    height: 20vh;
+}
+.ninebox{
+    width: 430px !important;
+}
+
+.ninebg h1{
+text-align: center;
+}
+
+.ninebox h1{
+text-align: left;
+}
+
+.tenbg{
+    height: 40vh;
+}
+
+.tenbox{
+    width: 300px !important;
+    padding-bottom: 10px;
+}
+
+.tenbox img{
+    width: 288px !important;
+}
+
+.ten{
+    gap: 10px;
+}
+
+.tenbox h4{
+    width: 300px !important;
+    gap: 70px !important;
+    font-size: 15px !important;
+}
+
+.elevenpg{
+    height: 20vh;
+}
+
+.lastbg{
+    height: 45vh;
+}
+
+.lastbg h3{
+    font-size: 20px;
+}
+.lastbg h4{
+    font-size: 18px;
+}
+.lastbg h5{
+    font-size: 15px;
+}
+}
+
+@media (max-width:992px) {
+
+.firstpg{
+    height: 95vh !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+  
+.fd{
+    flex-direction: column-reverse;
+}
+.fd1{
+    margin-top: 20px !important;
+}
+
+.fd21 img{
+    width: 340px !important;
+    margin-top: 20px !important;
+        margin-left: 0px !important;
+
+}
+.fd22 img{
+    width: 340px !important;
+    margin-top: 20px !important;
+
+}
+
+.fd3 img{
+    left: 290px;
+    top: 150px;
+}
+
+.fd4 img{
+    left: 268px;
+    top: 132px;
+}
+
+.fd5{
+    left: 350px;
+    top: 210px;
+}
+.secdata{
+    gap: 10px !important;
+}
+.secbox{
+    width: 700px !important;
+}
+
+.secbox img{
+    width: 10%;
+}
+.threedata{
+    flex-direction: column;
+}
+.three1{
+    width: 100% !important;
+
+}
+.three1 img{
+    width: 700px !important;
+    object-fit: cover;
+    height: 600px !important;
+}
+
+.three2{
+    width: 100% !important;
+    align-items: start !important;
+    margin-top: 50px !important;
+    margin-left: 0px;
+}
+
+.fourpg2{
+    gap: 0px !important;
+}
+
+.fourbg h1{
+    font-size: 45px !important;
+    width: 100% !important;
+}
+.fourbg p{
+    font-size: 20px !important;
+    width: 80% !important;
+}
+
+.fourbg2{
+    margin-top:-500px !important;
+}
+.fourbox{
+    width: 700px !important; 
+}
+
+.fivepg{
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.sixpg{
+    flex-direction: column;
+}
+
+.six1{
+    width: 100%;
+    height: 500px !important;
+}
+
+.accordion-item{
+    width: 670px !important;
+    background-color: white;
+}
+
+.sixbg{
+    padding:  0px !important;
+    padding-bottom: 50px !important;
+}
+
+.six2 img{
+    width: 670px !important;
+    height: 400px !important;
+}
+
+.sevenbg h1{
+    text-align: center !important;
+}
+.sev{
+    
+    flex-direction: column;
+}
+
+.sev1{
+    width: 100% !important;
+}
+.sev1 img{
+    width: 100% !important;
+}
+
+.sev2{
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+
+.sev3{
+    width: 600px;
+}
+
+.sev3 h6{
+    left: 400px;
+}
+
+.carousel-control-prev{
+    margin-left: 250px !important;
+    margin-top: 850px;
+    
+    
+}
+
+.carousel-control-next{
+     margin-right: 250px !important;
+    margin-top: 850px;
+    
+    
+}
+
+
+.sevenbg{
+    padding-bottom: 120px !important
+    ;
+}
+
+.eightbox{
+    width: 100% !important;
+}
+
+.eight2{
+    width: 100% !important;
+    margin-top: -100px !important;
+}
+
+.ninebox{
+    width: 100% !important;
+}
+
+
+.tenbox{
+    width: 100% !important;
+    padding-bottom: 10px;
+    padding: 0px !important;
+}
+
+.tenbox img{
+    width: 100% !important;
+}
+
+.ten{
+    gap:30px;
+}
+
+.tenbox h4{
+    width: 100% !important;
+    gap: 340px !important;
+    font-size: 25px !important;
+    margin-left: 20px;
+
+}
+
+.tenbox h1{
+    margin-left: 20px;
+}
+
+.tenbox p{
+    margin-left: 20px;
+}
+
+.tenbox h3{
+    margin-left: 20px;
+}
+
+.elevenpg{
+    height: 20vh;
+}
+
+.ev2 input{
+    padding: 10px 30px 10px 10px;
+}
+
+.ev1 h1{font-size: 20px;
+}
+
+.ev1 p{
+    width: 70%;
+    font-size: 12px;
+}
+
+.ev2 button{
+    width: 100px !important;
+    font-size: 10px;
+}
+
+.lastbg{
+    height: 75vh;
+}
+
+.last1{
+
+    width: 300px !important;
+}
+.last{
+    margin: 0px;
+    padding: 0px;
+    justify-content: start;
+}
+.last1 p{
+    width: 200px !important;
+}
+.element.style {
+    align-items: start !important; 
+}
+
+
+}
+
+
+@media (max-width:768px) {
+
+    .firstpg{
+        height: 110vh !important;
+    }
+    .fourbg2{
+    margin-top:-400px !important;
+}
+}
+
+@media (max-width:576px) {
+
+       .firstpg{
+        height: 90vh !important;
+    }
+
+    
+.fd21 img{
+    width: 160px !important;
+    margin-top: 20px !important;
+      margin:  0px !important;
+    padding:  0px !important;
+        margin-left: 0px !important;
+
+}
+.fd22 img{
+    width: 160px !important;
+    margin-top: 20px !important;
+    padding:  0px !important;
+
+}
+
+.fd3 img{
+    width: 65%;
+    left: 125px;
+    top: 77px;
+}
+
+.fd4 img{
+    width: 80%;
+
+      left: 110px;
+    top: 65px;
+}
+
+.fd5{
+      left: 167px;
+    top: 120px;
+}
+
+.fd{
+    margin-left: 0px !important;
+    justify-content: center !important;
+    margin:  0px !important;
+    padding:  0px !important;
+    align-items: start !important;
+}
+
+.fd h1{
+    width: 350px !important;
+    font-size: 30px !important;
+}
+
+.fd p{
+    width: 350px !important;
+    font-size: 15px !important;
+}
+.secdata{
+    gap: 0px !important;
+}
+.secbox{
+    padding: 20px 20px 20px 20px !important;
+    }
+
+.secbox img{
+    width: 20%;
+}
+
+.three1 img{
+    
+    width: 100% !important;
+}
+    .fourbg2{
+    margin-top:-280px !important;
+}
+
+.fourbg h1{
+    text-align: center !important;
+    font-size: 30px !important;
+
+}
+.fourbg{
+    height: 80vh !important;
+}
+
+.fourpg2{
+    gap: 20px !important;
+}
+
+.fivebox{
+    width: 300px !important;
+    display: flex;
+    justify-content: start !important;
+    align-items: end !important;
+}
+
+.accordion-item{
+    width: 350px !important;
+    background-color: white;
+}
+
+.fivepg{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+
+.six1{
+    width: 100% !important;
+    height: 700px !important;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px !important;
+}
+
+.six2{
+    padding: 0px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100% !important;
+}
+
+.six2 img{
+    width: 350px !important;
+}
+
+.sixbg{
+    padding: 0px !important;
+    margin-top: -100px !important;
+    padding-bottom: 50px !important;
+}
+
+.sev3{
+    width: 340px;
+}
+
+.sev3 h6{
+    left: 220px;
+}
+
+.carousel-control-prev{
+    margin-left: 100px !important;
+    margin-top: 710px;
+    
+    
+}
+
+.carousel-control-next{
+     margin-right:100px !important;
+    margin-top: 710px;
+    
+}
+
+
+.sevenbg{
+    padding-bottom: 120px !important
+    ;
+}
+
+.sev1 img{
+    height: 230px !important;
+}
+
+
+.eight{
+    gap: 20px !important;
+}
+
+.tenbg h1{
+    font-size: 28px !important;
+}
+
+.tenbox{
+    padding-bottom: 20px !important;
+}
+.tenbox h4{
+    width: 100% !important;
+    gap: 140px !important;
+    font-size: 15px !important;
+    margin-left: 20px;
+
+}
+
+.elevenpg{
+    display: flex;flex-direction: column;
+    flex-wrap: nowrap !important;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+.ev2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.ev1{
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.ev1 h1{
+    width: 100% !important;
+}
+
+
+.ev2 button{
+    width: 240px !important;
+}
+
+.lastbg{
+    height: 140vh;
+}
+.last{
+    flex-direction: column !important;
+    justify-content: start;
+    align-items: start;
+    gap: 40px;
+
+}
+
+.last1{
+    padding: 0px !important;
+    
+    justify-content: start;
+    align-items: start;
+}
+
+.lastbg ul{
+    justify-content: start !important;
+    align-items: start !important;
+    display: flex;
+    padding: 0px;
+
+}
+
+.ll{
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.ll h3{
+    font-size: 15px !important;
+}
+
+.ll h4{
+    font-size: 12px;
+
+
+}
+.sev2 h2{
+    font-size: 30px;
+}
+
+.sev2 p{
+    line-height: 22px;
+}
+
+
+.offcanvas-body ul li a {
+    color: rgb(0, 0, 0);
+}
+
+.dropbox img{
+  display: none !important;  
+}
+
+.dropbox {
+    width: 20px !important;
+    display: none !important;
+}
+
+
+element.style {
+    align-items: start;
+    gap: 20px;
+}
+
+.last1 ul{
+    margin-left: 2px;
+}
+body {
+  overflow-x: hidden !important;
+}
+
+}
+@media (max-width:391px) {
+          .firstpg{
+        height: 100vh !important;
+    }
+
+
+    .fd3 img{
+    width: 65%;
+    left: 124px;
+    top: 77px;
+}
+
+.fd4 img{
+    width: 80%;
+
+      left: 110px;
+    top: 65px;
+}
+
+.fd5{
+      left: 159px;
+    top: 115px;
+}
+.carousel-control-prev{
+    margin-left: 100px !important;
+    margin-top: 850px;
+    
+    
+}body {
+  overflow-x: hidden !important;
+}
+
+.carousel-control-next{
+     margin-right:100px !important;
+    margin-top: 850px;
+    
+    
+}
+
+.sev2 h2{
+    font-size: 30px;
+}
+
+.sev2 p{
+    line-height: 22px;
+}
+
+.fourbg{
+    height: 90vh !important;
+}
+
+.sevenbg{
+    padding-bottom: 120px !important
+    ;
+}
+
+.sev1 img{
+    height: 230px !important;
+}
+
+.tenbox h4{
+    width: 100% !important;
+    gap: 110px !important;
+    font-size: 15px !important;
+    margin-left: 20px;
+
+}
+.lastbg{
+    height: 150vh;
+}
+
+.lastbg{
+    height: 160vh;
+
+
+}
+
+.carousel-control-prev{
+    margin-left: 100px !important;
+    margin-top: 723px;
+    
+    
+}
+
+.carousel-control-next{
+     margin-right:100px !important;
+    margin-top: 723px;
+    
+}
+
+
+}
+
+
+@media (max-width:376px) {
+          .firstpg{
+        height: 120vh !important;
+    }
+
+    .fd21 img{
+        width: 150px !important;
+    }
+
+      .fd22 img{
+        width: 150px !important;
+    }
+
+    .fd3 img{
+    width: 65%;
+    left: 124px;
+    top: 76px;
+}
+
+.fd4 img{
+    width: 80%;
+
+      left: 110px;
+    top: 65px;
+}
+
+.firstpg h1{
+    width: 300px !important;
+}
+
+.firstpg p{
+    width: 300px !important;
+}
+
+
+.fd5{
+      left: 156px;
+    top: 112px;
+}
+.carousel-control-prev{
+    margin-left: 100px !important;
+    margin-top: 850px;
+    
+    
+}body {
+  overflow-x: hidden !important;
+}
+
+.carousel-control-next{
+     margin-right:100px !important;
+    margin-top: 850px;
+    
+    
+}
+
+.fourbg{
+    height: 100vh !important;
+}
+
+.sev2 h2{
+    font-size: 20px;
+}
+
+.sev2 p{
+    line-height: 22px;
+    font-size: 15px !important;
+}
+
+
+.sev1 img{
+    height: 150px !important;
+}
+.sevenbg{
+    padding-bottom: 120px !important
+    ;
+}
+
+
+
+.tenbox h4{
+    width: 80% !important;
+    gap: 110px !important;
+    font-size: 10px !important;
+    margin-left: 20px;
+
+}
+
+.lastbg{
+    height: 190vh;
+
+
+}
+
+.carousel-control-prev{
+    margin-left: 100px !important;
+    margin-top: 563px;
+    
+    
+}
+
+.carousel-control-next{
+     margin-right:100px !important;
+    margin-top: 563px;
+    
+}
+
+
+}
